@@ -1,0 +1,18 @@
+[
+  {
+    "folderId": "seguretat",
+    "name": "Àrea de Seguretat"
+  },
+  {
+    "folderId": "finances",
+    "name": "Departament de Finances"
+  },
+  {
+    "folderId": "rrhh",
+    "name": "Recursos Humans"
+  },
+  {
+    "folderId": "qualitat",
+    "name": "Control de Qualitat"
+  }
+]
