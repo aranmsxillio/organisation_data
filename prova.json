@@ -1,1 +1,4 @@
-¨prova superada¨
+[
+  { "name": "doc1", "title": "Introducció a la IA" },
+  { "name": "doc2", "title": "Guia de Machine Learning" }
+]
