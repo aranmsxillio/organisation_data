@@ -1,27 +1,7 @@
 [
-  {
-    "id": "doc001",
-    "name": "Protocol d'Incendis",
-    "folderId": "seguretat"
-  },
-  {
-    "id": "doc002",
-    "name": "Pla d'Evacuació",
-    "folderId": "seguretat"
-  },
-  {
-    "id": "doc003",
-    "name": "Informe Pressupostari 2024",
-    "folderId": "finances"
-  },
-  {
-    "id": "doc004",
-    "name": "Política de Contractació",
-    "folderId": "rrhh"
-  },
-  {
-    "id": "doc005",
-    "name": "Informe d'Auditoria Interna",
-    "folderId": "qualitat"
-  }
+  { "id": "doc001", "name": "Protocol d'Incendis", "folderId": "seguretat" },
+  { "id": "doc002", "name": "Pla d'Evacuació", "folderId": "seguretat" },
+  { "id": "doc003", "name": "Informe Pressupostari 2024", "folderId": "finances" },
+  { "id": "doc004", "name": "Política de Contractació", "folderId": "rrhh" },
+  { "id": "doc005", "name": "Informe d'Auditoria Interna", "folderId": "qualitat" }
 ]
