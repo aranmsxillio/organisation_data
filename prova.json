@@ -1,4 +1,1 @@
-[
-  { "id": "doc001", "name": "Document A", "folderId": "seguretat" },
-  { "id": "doc002", "name": "Document B", "folderId": "finances" }
-]
+doc1,doc2,doc3
