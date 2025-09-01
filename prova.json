@@ -1,5 +1,5 @@
 [
-  { "name": "doc1" },
-  { "name": "doc2" },
-  { "name": "doc3" }
+  { "DisplayName": "doc1" },
+  { "DisplayName": "doc2" },
+  { "DisplayName": "doc3" }
 ]
